@@ -8,6 +8,7 @@ You can assume that there is:
 2.	at least one token in each input line. 
 3.	line consists of only spaces and digits. The following example illustrates the nature of the expected program behavior for two input lines and a terminating line, in italics: 
 4.	The program ends when the end-user types in “Goodbye”.
+<br>
 String? 
 2 3 100 
 Tokens: 
