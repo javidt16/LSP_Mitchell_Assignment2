@@ -9,22 +9,22 @@ You can assume that there is:
 3.	line consists of only spaces and digits. The following example illustrates the nature of the expected program behavior for two input lines and a terminating line, in italics: 
 4.	The program ends when the end-user types in “Goodbye”.
 <br>
-String? 
-2 3 100 
-Tokens: 
-2 
-3 
-100 
-Sum: 105 
-Product: 600 
-
-String? 
-4 6 20 
-Tokens: 
-4 
-6 
-20 
-Sum: 30 
-Product: 480 
-String? 
+String? <br>
+2 3 100 <br>
+Tokens: <br>
+2 <br>
+3 <br>
+100 <br>
+Sum: 105 <br>
+Product: 600 <br>
+<br>
+String? <br>
+4 6 20 <br>
+Tokens: <br>
+4 <br>
+6 <br>
+20 <br>
+Sum: 30 <br>
+Product: 480 <br>
+String? <br>
 Goodbye
